@@ -42,7 +42,7 @@
 
 ![image](https://user-images.githubusercontent.com/81974121/144931901-ed86fc37-1404-49ce-a337-bb9463946214.png)
 
-![image](https://user-images.githubusercontent.com/81974121/144931952-d1bb604e-f504-4bb1-a3eb-707847002624.png)
+![image](https://user-images.githubusercontent.com/81974121/144933211-9fdfa04d-f3e1-46d4-9e14-20722526d0a3.png)
 
 ## Setup
 1. Clone the project into a folder
